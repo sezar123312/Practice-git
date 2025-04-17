@@ -2,7 +2,7 @@
 using namespace std;
 
 void printStudentid() {
-    cout << "My ID is : 4033633005 " << endl;
+    cout << "My ID is : 40336" << endl;
 }
 int main() {
    
