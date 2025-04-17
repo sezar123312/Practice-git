@@ -1,0 +1,3 @@
+ void tmpFunction () {
+   //tmp.cpp
+ }
